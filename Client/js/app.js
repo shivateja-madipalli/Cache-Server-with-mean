@@ -1,0 +1,1 @@
+var app = angular.module('meetupApp', ['meetupApp.controllers','ngResource']);
